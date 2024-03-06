@@ -18,11 +18,17 @@ p {
 
 .paral{
     background-color: aqua;
-    font style:italic
+ font-style: italic;
 }
 #main-heading {
-    background-color: bisque;
+    background-color: rgb(255, 196, 252);
 }
 li{
     color: rgb(255, 0, 0);
+}
+button{
+    background-color: aqua;
+}
+table{
+    background-color: blueviolet;
 }
